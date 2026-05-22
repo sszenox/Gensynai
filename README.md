@@ -1,4 +1,4 @@
-# Gensyn Node Run Guide By sszenox
+# Gensyn Node Run Guide By Ashish
 
 A simple VPS guide by **sszenox** for setting up and managing a Gensyn RL Swarm node.
 
